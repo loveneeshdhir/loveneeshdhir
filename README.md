@@ -11,6 +11,6 @@ I'm a 2nd-year student pursuing B.Tech. in Computer Science Engineering. I am a 
 - 👯 I’m looking to collaborate on any Open Source Project involving Data Science / Machine Learning.
 - 🤔 I’m looking for help with Competitive Programming😫.
 - 💬 Ask me about anything!
-- 📫 How to reach me: dhirloveneesh@gmail.com | [Twitter](https://twitter.com/LoveneeshDhir) | [LinkedIn](https://www.linkedin.com/in/loveneeshdhir) | [Website](https://loveneeshdhir.tech/)
+- 📫 How to reach me: dhirloveneesh@gmail.com | [Twitter](https://twitter.com/LoveneeshDhir) | [LinkedIn](https://www.linkedin.com/in/loveneeshdhir) | [Portfolio](https://loveneeshdhir.tech/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Everyone is a Machine learning enthusiast nowadays🤣.
