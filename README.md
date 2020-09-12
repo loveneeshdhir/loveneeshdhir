@@ -14,6 +14,4 @@ I'm a 3rd-year student pursuing B.Tech. in Computer Science Engineering. I am a 
 # 📫 Reach me out at
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/loveneeshdhir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/loveneesh.dhir.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/loveneesh_dhir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/LoveneeshDhir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://loveneeshdhir.tech/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=loveneeshdhir&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/loveneeshdhir)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=loveneeshdhir&show_icons=true)    
