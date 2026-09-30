@@ -1,22 +1,36 @@
-## Hello World! 👋
+# Hi, I'm Loveneesh 👋
 
-TL;DR: A passionate guy scaling startups with the power of people aka Communities!
+**Growth, Partnerships & Ecosystem** · Delhi, India
 
-I am a community freak currently working as a Developer Relations Engineer. In the past years, I have contributed to various communities through content and events and have been recognized for contributions to student programs by Google, Microsoft and GitHub! 
+I build go-to-market engines for developer and infrastructure companies. Give me a blank brief and a deadline, and I'll scope the program, set the KPIs, own the execution and report back on what worked and what didn't.
 
-In my previous roles, I have helped multiple startups with community development, developer relations, program management, GTM & product growth strategies. My aim is always to "help developers" by working with product and engineering teams. 
+Right now I'm **Founding GTM at [AgentTrail](https://agenttrail.sh)**, which builds observability, governance and real-time enforcement for AI coding agents.
 
- I'm driven by the will to create an impact and encourage diversity and inclusion in communities as we never grow alone but always with a community
+---
 
-### More about me...
+### 📈 Track record
 
-- 🔭 I’m currently working on Solidity and Web3.
-- 🌱 I’m currently learning DevOps☁.
-- 🤔 I’m looking for help with Competitive Programming😫.
-- 💬 Ask me about anything!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Everyone is a blockchain enthusiast nowadays🤣.
-# 📫 Reach me out at
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/loveneeshdhir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/loveneesh.dhir.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/loveneesh_dhir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/LoveneeshDhir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://loveneeshdhir.tech/)  
+| | |
+|---|---|
+| **450K** platform users in 72 hours | **140+** contributors across 25+ countries |
+| **51K** newsletter subscribers, 20%+ open rate | **5M+** people reached across 30+ countries |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=loveneeshdhir&show_icons=true)    
+### 🧭 Where I've built
+
+- **AgentTrail**: Founding GTM *(current)*
+- **Union Labs**: Head of Ecosystem for a zero-knowledge protocol connecting blockchains. Partnerships with Aptos, Polygon and Movement Labs
+- **Shardeum**: Community Lead, APAC & MENA, at an EVM-compatible Layer-1. Partnerships with OKX Wallet and The Sandbox, plus 140+ ambassadors in 16+ countries
+- **OG Club**: Co-founder of a Web3 community (acquired by Brinc). 29K+ members, 15+ founders to seed
+- **Hashed Emergent · Gitopia · Commudle · Scaler**: growth, DevRel and program roles
+
+### 🛠 What I do
+
+`Go-to-market` `Partnerships & BD` `Ecosystem programs` `Developer relations` `Community strategy` `Program operations`
+
+### 📫 Find me
+
+[![Website](https://img.shields.io/badge/loveneeshdhir.com-C0451A?style=flat&logo=googlechrome&logoColor=white)](https://loveneeshdhir.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveneeshdhir/)
+[![X](https://img.shields.io/badge/@LoveneeshDhir-000000?style=flat&logo=x&logoColor=white)](https://x.com/LoveneeshDhir)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/loveneeshdhir)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:dhirloveneesh@gmail.com)
